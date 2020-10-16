@@ -1,0 +1,7 @@
+Artist < ActiveRecord::Base
+
+
+
+
+
+end
